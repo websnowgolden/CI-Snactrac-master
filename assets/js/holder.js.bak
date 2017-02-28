@@ -7,7 +7,6 @@ Provided under the MIT License.
 Commercial use requires attribution.
 
 */
-//2017.3.1 update (text color)
 var Holder = Holder || {};
 (function (app, win) {
 var system_config = {
